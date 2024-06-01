@@ -5,9 +5,11 @@ Restorant
 Sistem Informasi Pemesanan Restoran
 
 Sistem Informasi Restoran berbasis website yang dapat membantu manajemen restoran dalam mengelola pesanan, inventaris, dan memperkuat hubungan dengan pelanggan. Aplikasi website Restoran Barokah dikembangkan menggunakan bahasa pemrograman PHP sebagai inti dari logika aplikasi.
+
 ###################
 Fitur Website:
 ###################
+
 •	Pemesanan online: Pelanggan dapat memesan makanan dan minuman secara online melalui website.
 •	Manajemen Menu: Memungkinkan manajer restoran untuk mengelola menu, menambahkan, menghapus, atau mengubah item-item menu.
 •	Manajemen Pesanan: Manajer restoran dapat melihat dan mengelola pesanan yang diterima, termasuk konfirmasi, pengiriman, atau pembatalan.
