@@ -16,9 +16,9 @@ Fitur Website:
 •	Manajemen Inventaris: Mengelola inventaris bahan baku dan barang lain yang digunakan dalam operasional restoran.
 •	Laporan dan Analisis: Menyediakan laporan tentang penjualan, tren pemesanan, dan analisis lainnya untuk membantu pengambilan keputusan.
 
-###################
-Aplikasi History ini di buat untuk tugas akhir pemrograman Web. Dibuat oleh kelompok 6 :
-###################
+#######################################################################################
+Aplikasi History ini dibuat untuk tugas akhir pemrograman Web. Dibuat oleh kelompok 6:
+#######################################################################################
 
 1. Galuh Rastika P. (22050974001) 
 2. Divita Aulia L. (22050974002)
