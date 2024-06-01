@@ -1,5 +1,6 @@
 ![alt text](https://github.com/galuhRastika/Restaurant_Barokah/blob/main/Poster%20Restoran.png)
 ![Alt Text](https://github.com/galuhRastika/Restaurant_Barokah/blob/main/Poster%20Restoran.png)
+![Example Image](https://github.com/galuhRastika/Restaurant_Barokah/blob/main/Poster%20Restoran.png)
 
 ###################
 Restoran Barokah
