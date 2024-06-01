@@ -1,4 +1,4 @@
-![alt text](https://github.com/galuhRastika/Restaurant_Barokah/blob/main/Poster%20Restoran%20Barokah?raw=true)
+![alt text](https://github.com/galuhRastika/Restaurant_Barokah/blob/main/Poster%20Restoran%20Barokah.png?raw=true)
 
 ###################
 Restoran Barokah
