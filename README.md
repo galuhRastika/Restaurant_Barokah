@@ -9,9 +9,13 @@ Barokah Restaurant Information System is a website-based system that assists res
 
 ## Website Features:
 •	Online Ordering: Customers can order food and drinks online through the website.
+
 •	Menu Management: Allows restaurant managers to manage the menu by adding, deleting, or modifying menu items.
+
 •	Order Management: Restaurant managers can view and manage received orders, including confirmation, delivery, or cancellation.
+
 •	Inventory Management: Manages inventory of raw materials and other items used in restaurant operations.
+
 •	Reports and Analysis: Provides reports on sales, ordering trends, and other analysis to assist decision-making.
 
 ## This application history was created for the final project of Web Programming. Created by Group 6:
