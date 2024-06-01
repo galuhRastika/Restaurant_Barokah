@@ -1,21 +1,23 @@
 
 ![Poster Restoran](https://github.com/galuhRastika/Restaurant_Barokah/raw/main/Poster%20Restoran.png)
 
-# Restoran Barokah
+# Barokah Restaurant
 
-## Sistem Informasi Pemesanan Restoran
+## Restaurant Ordering System
 
-Sistem Informasi Restoran berbasis website yang dapat membantu manajemen restoran dalam mengelola pesanan, inventaris, dan memperkuat hubungan dengan pelanggan. Aplikasi website Restoran Barokah dikembangkan menggunakan bahasa pemrograman PHP sebagai inti dari logika aplikasi.
+Barokah Restaurant Information System is a website-based system that assists restaurant management in handling orders, inventory, and strengthening customer relationships. The Barokah Restaurant website application is developed using PHP as the core of the application logic.
 
-## Fitur Website:
-•	Pemesanan online: Pelanggan dapat memesan makanan dan minuman secara online melalui website.
-•	Manajemen Menu: Memungkinkan manajer restoran untuk mengelola menu, menambahkan, menghapus, atau mengubah item-item menu.
-•	Manajemen Pesanan: Manajer restoran dapat melihat dan mengelola pesanan yang diterima, termasuk konfirmasi, pengiriman, atau pembatalan.
-•	Manajemen Inventaris: Mengelola inventaris bahan baku dan barang lain yang digunakan dalam operasional restoran.
-•	Laporan dan Analisis: Menyediakan laporan tentang penjualan, tren pemesanan, dan analisis lainnya untuk membantu pengambilan keputusan.
+## Website Features:
+•	Online Ordering: Customers can order food and drinks online through the website.
+•	Menu Management: Allows restaurant managers to manage the menu by adding, deleting, or modifying menu items.
+•	Order Management: Restaurant managers can view and manage received orders, including confirmation, delivery, or cancellation.
+•	Inventory Management: Manages inventory of raw materials and other items used in restaurant operations.
+•	Reports and Analysis: Provides reports on sales, ordering trends, and other analysis to assist decision-making.
 
-## Aplikasi History ini dibuat untuk tugas akhir pemrograman Web. Dibuat oleh kelompok 6:
-1. Galuh Rastika P. (22050974001) 
+## This application history was created for the final project of Web Programming. Created by Group 6:
+1. Galuh Rastika P. (22050974001)
 2. Divita Aulia L. (22050974002)
 3. Cintiya (22050974021)
 4. Ofpani Aziz A. (22050974033)
+
+https://pendidikan-ti.ft.unesa.ac.id/ https://ft.unesa.ac.id/  https://www.unesa.ac.id/
