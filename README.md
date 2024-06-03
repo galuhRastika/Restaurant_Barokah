@@ -18,7 +18,7 @@ Barokah Restaurant Information System is a website-based system that assists res
 
 •	Reports and Analysis: Provides reports on sales, ordering trends, and other analysis to assist decision-making.
 
-## This application history was created for the final project of Web Programming. Created by Group 6:
+## This application website Barokah Restaurant was created for the final project of Web Programming. Created by Group 6:
 1. Galuh Rastika P. (22050974001)
 2. Divita Aulia L. (22050974002)
 3. Cintiya (22050974021)
